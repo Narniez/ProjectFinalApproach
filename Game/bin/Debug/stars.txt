@@ -1,0 +1,5 @@
+Stars Level 0 = 3
+Stars Level 1 = 2
+Stars Level 2 = 3
+Stars Level 3 = 0
+Stars Level 4 = 0
